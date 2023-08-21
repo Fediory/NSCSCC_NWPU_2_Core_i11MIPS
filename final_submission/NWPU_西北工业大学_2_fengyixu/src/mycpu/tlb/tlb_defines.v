@@ -1,0 +1,11 @@
+`define TLBNUM 8
+`define VPN2_WD 18:0
+`define ASID_WD 7:0
+`define PFN_WD 19:0
+`define C_WD 2:0
+`define TLB_WT $clog2(`TLBNUM)
+`define MATCH_WD $clog2(`TLBNUM)-1:0
+`define TLB_WD  $clog2(`TLBNUM)-1:0
+`define TLB_SIZE `TLBNUM-1:0
+`define MATCH_EN_WD `TLBNUM-1:0
+`define MASK_SIZE  15:0

@@ -1,0 +1,3 @@
+`define TAG_WIDTH 20
+`define OFFSET_WIDTH 4
+`define INDEX_WIDTH 8
