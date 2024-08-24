@@ -6,18 +6,18 @@ CoreMIPSi11 CPU 采用单发射七级流水线架构，其频率达到约 90MHz�
 
 如果您有问题，欢迎与我们沟通！
 
-冯宜湑
+Yixu Feng
 
 yixu-nwpu@mail.nwpu.edu.cn
 
-陈世杰
+Shijie Chen
 
 csj314159@mail.nwpu.edu.cn
 
-蒋晓天
+Xiaotian Jiang
 
 timba@mail.nwpu.edu.cn
 
-李旭辉
+Xuhui Li
 
 lixuhui123@mail.nwpu.edu.cn
